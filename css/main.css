@@ -1,0 +1,30 @@
+.container-fluid{
+    background-color: #F8F9FA;
+}
+
+.content{
+    margin-top: 100px;
+}
+.img-fluid{
+    width: 100%;
+    margin-top: 0.5rem;
+}
+.foto{
+    width: 600px;
+}
+.size{
+    padding: 0 10px;
+}
+#total{
+    /*color: lightgray;*/
+    margin-bottom: 1rem;
+    margin-left: 1.5rem;
+    font-size: 14px;
+    color: gray;
+}
+#rasm{
+    width: 100%;
+}
+.modal-body{
+    padding: 10px;
+}
